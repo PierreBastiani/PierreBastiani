@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<img src="https://raw.github.com/PierreBastiani/PierreBastiani/blob/main/assets/fr-language.png">](https://github.com/PierreBastiani/PierreBastiani/blob/main/README.fr.md)
+[<img src="/assets/fr-language.png">](https://github.com/PierreBastiani/PierreBastiani/blob/main/README.fr.md)
 
 <!--
 **PierreBastiani/PierreBastiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
