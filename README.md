@@ -1,4 +1,5 @@
 ### Hi there 👋
+[<img src="http://www.google.com.au/images/nav_logo7.png">](https://github.com/PierreBastiani/PierreBastiani/edit/main/README.fr.md)
 
 <!--
 **PierreBastiani/PierreBastiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
