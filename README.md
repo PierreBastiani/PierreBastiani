@@ -8,6 +8,6 @@ Outside work I self-host and take apart whatever I can. I decoded my air conditi
 
 Ruby on Rails, C++, Python, Node, Rust, Vue · Docker, Kubernetes, OpenShift, ArgoCD, HAProxy · Claude Code agents, local LLMs, YOLO · Home Assistant, Node-RED, ESPHome
 
-<a href="https://www.linkedin.com/in/%E2%9A%AA-pierre-bastiani-600617182/">
+<a href="https://www.linkedin.com/in/pierre-bastiani">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
