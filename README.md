@@ -1,3 +1,5 @@
+<img src="assets/pierre-bastiani-banner.jpg" alt="Pierre with a climbing rack, looking over the Côte d'Azur and the Mediterranean" width="100%" />
+
 ## Pierre Bastiani
 
 Full-stack and DevOps developer on the Côte d'Azur. At LivePepper I build the online ordering platform restaurants use, from the Rails back end to the servers it runs on, and I work directly with the restaurant owners who ask for the features. Before that I was a DevOps consultant on Amadeus's migration to Azure.
